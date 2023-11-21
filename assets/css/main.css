@@ -723,6 +723,7 @@ input, select, textarea {
 		line-height: 8em;
 		position: absolute;
 		text-align: center;
+		font-size: 15px;
 		width: 100%;
 	}
 
